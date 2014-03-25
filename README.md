@@ -1,7 +1,9 @@
 VstoneCameraUndistortion
 ====
-‘S•ûˆÊƒJƒƒ‰‚ÅB‰e‚µ‚½‰æ‘œ‚ğ•â³‚·‚éƒTƒ“ƒvƒ‹ƒvƒƒOƒ‰ƒ€B
+å…¨æ–¹ä½ã‚«ãƒ¡ãƒ©ã§æ’®å½±ã—ãŸç”»åƒã‚’è£œæ­£ã™ã‚‹ã‚µãƒ³ãƒ—ãƒ«ãƒ—ãƒ­ã‚°ãƒ©ãƒ ã€‚
 
-* [‘S•ûˆÊƒZƒ“ƒTE‘S•ûˆÊƒJƒƒ‰»•i](http://www.vstone.co.jp/products/sensor_camera/index.html) (ƒ”ƒCƒXƒgƒ“Š”®‰ïĞ)
+* [å…¨æ–¹ä½ã‚»ãƒ³ã‚µãƒ»å…¨æ–¹ä½ã‚«ãƒ¡ãƒ©è£½å“](http://www.vstone.co.jp/products/sensor_camera/index.html) (ãƒ´ã‚¤ã‚¹ãƒˆãƒ³æ ªå¼ä¼šç¤¾)
 
-OpenCV‚ğg—p‚µ‚Ä‚¢‚Ü‚·B
+OpenCVã‚’ä½¿ç”¨ã—ã¦ã„ã¾ã™ã€‚
+
+* ![img](https://farm8.staticflickr.com/7019/13399111895_e960b10acc_n.jpg)
